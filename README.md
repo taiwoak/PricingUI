@@ -33,7 +33,8 @@ Implement a Web App using GitHub API to fetch your GitHub repositories portfolio
 ### Pages
 There are 4 pages implemented on this task: Home Page, Repository Page, 404 Page, Error Page.
 
-Home Page: The home page has a navigation bar, hero section,  repositories list with pagination enabled with a previous and next button, search field and a footer section. The following are the functionalities you can carry out on the home page:
+### Home Page: 
+The home page has a navigation bar, hero section,  repositories list with pagination enabled with a previous and next button, search field and a footer section. The following are the functionalities you can carry out on the home page:
 
 1. You can search for any repository of your choice
 2. You can move between pages to see all the list of the repositories
@@ -42,11 +43,14 @@ Home Page: The home page has a navigation bar, hero section,  repositories list 
 5. You can contact me with the contact button on the nav bar
 6. You can navigate the home page from any page by clicking on the github icon or my username
 
-Repository Page: This page contains more detailed information about the repository which includes the Stars, Watch, Forks, Branches, Repository Link, Live url if any and the Language used in the Repository if any.
+### Repository Page: 
+This page contains more detailed information about the repository which includes the Stars, Watch, Forks, Branches, Repository Link, Live url if any and the Language used in the Repository if any.
 
-404 Page: This page contains an illustration and a return to home page link. This page is used when a user routes to a page that does not exist.
+### 404 Page: 
+This page contains an illustration and a return to home page link. This page is used when a user routes to a page that does not exist.
 
-Error Page: The page shows the error message that is been displayed by the Error Boundary function that is implemented on the github api repository fetch. The page serves as a demo page to the error response that will be displayed if the api call catches an exception. 
+### Error Page: 
+The page shows the error message that is been displayed by the Error Boundary function that is implemented on the github api repository fetch. The page serves as a demo page to the error response that will be displayed if the api call catches an exception. 
 
 
 ## Process
