@@ -4,12 +4,12 @@ This is a web application solution that lists all my repositories on GitHub and 
 
 ## Table of contents
 [Overview](#overview)
- [Project Question](#project-question)
- [Pages](#pages)
+ *[Project Question](#project-question)
+ *[Pages](#pages)
 [Process](#process)
- [Technology Used](#technology-used)
- [Lessons Learnt](#lessons-learnt)
- [Further Development](#further-development)
+ *[Technology Used](#technology-used)
+ *[Lessons Learnt](#lessons-learnt)
+ *[Further Development](#further-development)
 [How to run this on your Local PC](#how-to-run-this-on-your-local-pc)
 
 
