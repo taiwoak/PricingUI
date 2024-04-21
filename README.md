@@ -3,14 +3,15 @@
 This is a web application solution that lists all my repositories on GitHub and allows you to search and move between pages. The Error boundary was properly implemented with the 404 page.
 
 ## Table of contents
--[Overview](#overview)
-  -[Project Question](#project-question)
-  -[Pages](#pages)
--[Process](#process)
-  -[Technology Used](#technology-used)
-  -[Lessons Learnt](#lessons-learnt)
-  -[Further Development](#further-development)
--[How to run this on your Local PC](#how-to-run-this-on-your-local-pc)
+
+- [Overview](#overview)
+  - [Project Question](#project-question)
+  - [Pages](#pages)
+- [Process](#process)
+  - [Technology Used](#technology-used)
+  - [Lessons Learnt](#lessons-learnt)
+  - [Further Development](#further-development)
+- [How to run this on your Local PC](#how-to-run-this-on-your-local-pc)
 
 
 ## Overview
